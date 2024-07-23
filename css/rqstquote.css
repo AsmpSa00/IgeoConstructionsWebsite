@@ -1,0 +1,42 @@
+.datepicker {z-index:99999999 !important;}
+#rqstquotepop .modal-header h3{margin:8px;color:#fff}
+#rqstquotepop .modal-header .close{margin-top:8px;opacity:1;color:#fff}
+#rqstquotepop .modal-header i{font-size:20px;margin-right:8px;}
+#rqstquotepop .modal-header-success { color:#fff; padding:9px 15px; border-bottom:1px solid #eee; background-color: #5cb85c; -webkit-border-top-left-radius: 5px; -webkit-border-top-right-radius: 5px; -moz-border-radius-topleft: 5px; -moz-border-radius-topright: 5px; border-top-left-radius: 5px; border-top-right-radius: 5px;}
+
+#rqstquotepop .quotetable, #rqstquotepop .quotetable td, #rqstquotepop .quotetable th { border: 1px solid #ddd; text-align: left;}
+#rqstquotepop .quotetable { border-collapse: collapse; width: 100%;}
+#rqstquotepop .quotetable th, #rqstquotepop .quotetable td { padding: 15px;}
+fieldset{overflow:hidden}
+/*.quote-label{width:20%; display:inline-block;}
+.quote-div{width:70%; display:inline-block;padding:5px;vertical-align:middle;}*/
+.rqstquote_btn_dual{position: absolute; bottom: 70px; left: 70px;}
+button.rqstquote_btn_prod {
+    width: 200px;
+    display: inline-block;
+    padding: 7px 0;
+    margin-left: 12px;
+}
+div#checkout-cart table.table thead td {
+    color: #222;
+    font-weight: 300;
+    font-size: 14px;
+}
+div#checkout-cart #rqstquoteformpop .quote-label {
+    color: #fff;
+}
+.modal-content div#checkout-cart #rqstquoteformpop .quote-label {
+    color: #222;
+}
+.modal-content div#checkout-cart table.table td, .modal-content div#checkout-cart table.table td a {
+    color: #222;
+	
+}
+#checkout-cart .modal-footer a.btn.btn-primary, #checkout-cart .modal-footer input {
+    color: #ffffff;
+    text-shadow: none;
+    background-color: #c0952f;
+    background-image: none;
+    padding: 10px 40px;
+    border-color: transparent;
+}
